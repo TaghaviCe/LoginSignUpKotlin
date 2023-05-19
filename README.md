@@ -13,7 +13,7 @@ create "retrofit" folder on Xamp in in drive C <br />
 Go to the following directory and create the "retrofit" folder.<br />
 C:\xamp\htdocs
 
-	:heavy_check_mark:step 3<br />
+:heavy_check_mark:step 3<br />
 go to retrofit folder and put your php code on it.<br />
 here, you can find php codes in "retrofit" folder ->https://github.com/TaghaviCe/LoginSignUpKotlin/tree/master/retrofit.<br />
 
