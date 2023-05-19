@@ -29,4 +29,12 @@ and you can see like this:<br />
 
 step 6:<br />
 Now you can test your Kotlin code and connect to Xamp via Api<br />
-Note that both your mobile (or your emulator) and your PC must be connected to the same Wi-Fi to be able to communicate with each other based on your IP.
+attention!: that both your mobile (or your emulator) and your PC must be connected to the same Wi-Fi to be able to communicate with each other based on your IP.<br/>
+
+important points in kotlin code:<br/>
+- MVVM architecture<br/>
+- Moshi, Retrofit, Coroutine<br/>
+
+Good Luck :)
+
+
