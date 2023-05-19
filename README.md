@@ -6,7 +6,7 @@ I craete new database. Its name is Retrofit
 and i create "user" table.<br />
 The rows of the table are shown in the photo below :arrow_down:<br />
 
-![xamp1](https://github.com/TaghaviCe/LoginSignUpKotlin/assets/80774755/cd4e2e79-a053-47a7-9341-00447edaac11)
+![xamp1](https://github.com/TaghaviCe/LoginSignUpKotlin/assets/80774755/cd4e2e79-a053-47a7-9341-00447edaac11) <br/>
 
 :heavy_check_mark:step 2<br />
 create "retrofit" folder on Xamp in in drive C <br />
@@ -25,7 +25,7 @@ Now you can see the code folders you put in the Xamp folder with your IP address
 For example, if your IP is 198.168.X.X<br />
 your URL is:  http://198.168.X.X/retrofit/ (use your url on your kotlin code)<br />
 and you can see like this:arrow_down::<br />
-![xamp55](https://github.com/TaghaviCe/LoginSignUpKotlin/assets/80774755/f7eb8223-e6cc-4cf3-88a9-1ec174753635)
+![xamp55](https://github.com/TaghaviCe/LoginSignUpKotlin/assets/80774755/f7eb8223-e6cc-4cf3-88a9-1ec174753635)<br/>
 
 :heavy_check_mark:step 6:<br />
 Now you can test your Kotlin code and connect to Xamp via Api<br />
