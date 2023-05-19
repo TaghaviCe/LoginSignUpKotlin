@@ -5,8 +5,8 @@ create table like this:<br />
 I craete new database. Its name is Retrofit
 and i create "user" table.<br />
 The rows of the table are shown in the photo below<br   />
+![xamp1](https://github.com/TaghaviCe/LoginSignUpKotlin/assets/80774755/1230de05-5b89-4854-a43a-cb121fa74ce0)
 
-![xamp1](https://github.com/TaghaviCe/LoginSignUpKotlin/assets/80774755/cd4e2e79-a053-47a7-9341-00447edaac11) <br/>
 <br/>
 :heavy_check_mark:step 2<br />
 create "retrofit" folder on Xampp in in drive C <br />
