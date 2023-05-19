@@ -25,7 +25,8 @@ Now you can see the code folders you put in the Xampp folder with your IP addres
 For example, if your IP is 198.168.X.X<br />
 your URL is:  http://198.168.X.X/retrofit/ (use your url on your kotlin code)<br />
 and you can see like this:arrow_down::<br />
-![xamp55](https://github.com/TaghaviCe/LoginSignUpKotlin/assets/80774755/f7eb8223-e6cc-4cf3-88a9-1ec174753635)<br/>
+![xamp55](https://github.com/TaghaviCe/LoginSignUpKotlin/assets/80774755/b33b2e9b-8419-4ebd-95e2-2e7695343c97)
+
 <br/>
 :heavy_check_mark:step 6:<br />
 Now you can test your Kotlin code and connect to Xampp via Api<br />
