@@ -22,8 +22,8 @@ find your ip address on your pc<br />
 
 step 5:<br />
 Now you can see the code folders you put in the Xamp folder with your IP address.<br />
-For example, if your IP is 198.168.1.4<br />
-your URL is:  http://198.168.1.4/retrofit/ (use your url on your kotlin code)<br />
+For example, if your IP is 198.168.X.X<br />
+your URL is:  http://198.168.X.X/retrofit/ (use your url on your kotlin code)<br />
 and you can see like this:<br />
 ![xamp55](https://github.com/TaghaviCe/LoginSignUpKotlin/assets/80774755/f7eb8223-e6cc-4cf3-88a9-1ec174753635)
 
