@@ -15,6 +15,7 @@ C:\xamp\htdocs
 
 step 3<br />
 go to retrofit folder and put your php code on it.<br />
+here, you can see php codes in "retrofit" folder.<br />
 
 step 4:<br />
 find your ip address on your pc<br />
