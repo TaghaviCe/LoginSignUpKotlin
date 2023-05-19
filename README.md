@@ -29,6 +29,7 @@ and you can see like this:arrow_down::<br />
 
 :heavy_check_mark:step 6:<br />
 Now you can test your Kotlin code and connect to Xamp via Api<br />
+You can try these codes on the real host<br/>
 attention!: that both your mobile (or your emulator) and your PC must be connected to the same Wi-Fi to be able to communicate with each other based on your IP.<br/>
 
 important points in kotlin code:<br/>
