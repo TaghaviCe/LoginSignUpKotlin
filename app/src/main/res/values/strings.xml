@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginSignUpKotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="you_have_a_account_login">You Have A Account?Login</string>
+    <string name="no_account_register">No Account?Register</string>
+    <string name="login">Login</string>
+</resources>
