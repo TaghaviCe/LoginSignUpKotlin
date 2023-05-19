@@ -1,6 +1,6 @@
 :dart:An exercise to work with Api and retrofit in kotlin <br />
 :heavy_check_mark:step 1:<br />
-go to Xampp and Create new database(if you dont Xampp, you can install it)<br />
+go to Xampp and Create new database(if you dont Xamp, you can install it)<br />
 create table like this:<br />
 I craete new database. Its name is Retrofit
 and i create "user" table.<br />
