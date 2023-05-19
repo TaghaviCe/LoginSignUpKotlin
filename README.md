@@ -4,7 +4,7 @@ go to Xampp and Create new database(if you dont Xamp, you can install it)<br />
 create table like this:<br />
 I craete new database. Its name is Retrofit
 and i create "user" table.<br />
-The rows of the table are shown in the photo below<br/>
+The rows of the table are shown in the photo below<br   />
 
 ![xamp1](https://github.com/TaghaviCe/LoginSignUpKotlin/assets/80774755/cd4e2e79-a053-47a7-9341-00447edaac11) <br/>
 <br/>
