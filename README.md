@@ -23,7 +23,7 @@ find your ip address on your pc<br />
 :heavy_check_mark:step 5:<br />
 Now you can see the code folders you put in the Xampp folder with your IP address.<br />
 For example, if your IP is 198.168.X.X<br />
-your URL is:  http://198.168.X.X/retrofit/ (use your url on your kotlin code)<br />
+your URL is:  http://198.168.X.X/retrofit/ (use your url on your kotlin code -> https://github.com/TaghaviCe/LoginSignUpKotlin/blob/master/app/src/main/java/com/example/loginsignupkotlin/network/ApiParam.kt)<br />
 and you can see like this:arrow_down::<br />
 ![xamp55](https://github.com/TaghaviCe/LoginSignUpKotlin/assets/80774755/b33b2e9b-8419-4ebd-95e2-2e7695343c97)
 
